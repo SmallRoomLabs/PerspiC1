@@ -1,9 +1,14 @@
-#PerspiC1
-I installed [gschem](http://wiki.geda-project.org/geda:gaf) from the [gEDA](http://www.geda-project.org/) so I could view the schematics from the [PerspiC1 documentation site](https://gnosia.anu.edu.au/wiki/Perspicuous_Computer_1).
+#PerspiC1 - Schematics
+I wanted to see the schematics for the [PerspiC1](https://gnosia.anu.edu.au/wiki/Perspicuous_Computer_1) computer but there wasn't any PDF or image files for them on the site. So
+I installed [gschem](http://wiki.geda-project.org/geda:gaf) from the [gEDA](http://www.geda-project.org/) project to be able to open the files.
 
-Since I'm an Eagle user I won't keep the gEDA package on my laptop I made PNG screenshots of all the schematic files to have them available for future reference. It might also come in handy for anyone else that wants to see the schematics without going through the hassle of installed gEDA.
+Since I'm an Eagle user I won't keep the gEDA package on my laptop I made PNG screenshots of all the schematic files to have them available for future reference. They might also come in handy for anyone else that wants to see the schematics without going through the hassle of installing gEDA.
 
-I hope that the author, Robert Edwards, don't mind me making the images publically available here.
+The schematics and pcbs files are copied from  
+[svn.anu.edu.au/staff/bob/public/gschem-sym](http://svn.anu.edu.au/staff/bob/public/gschem-sym/)  
+[svn.anu.edu.au/staff/bob/public/PerspiC1](http://svn.anu.edu.au/staff/bob/public/PerspiC1/)  
+
+I hope that the designer of PerspiC1, Robert Edwards, don't mind me making the images publically available here.
 
 ---
 ###9_bit_oc_buffer.sch
