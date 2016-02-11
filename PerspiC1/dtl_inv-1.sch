@@ -1,0 +1,47 @@
+v 20100214 2
+C 40000 40000 0 0 0 title-B.sym
+C 43000 46000 1 0 0 dl_1_and.sym
+{
+T 43000 48000 5 10 0 0 0 0 1
+device=Diode Logic 1-input AND
+T 43000 47800 5 10 0 0 0 0 1
+footprint=sip_3
+T 44300 47100 5 10 1 1 0 0 1
+refdes=G1
+}
+C 45000 46000 1 0 0 npn-3.sym
+{
+T 45900 46500 5 10 0 0 0 0 1
+device=NPN_TRANSISTOR
+T 45900 46500 5 10 1 1 0 0 1
+refdes=Q1
+T 45000 46000 5 10 0 0 0 0 1
+footprint=to92_80
+}
+C 45500 47900 1 270 0 resistor-1.sym
+{
+T 45900 47600 5 10 0 0 270 0 1
+device=RESISTOR
+T 45800 47700 5 10 1 1 270 0 1
+refdes=R1
+T 45500 47900 5 10 0 0 0 0 1
+footprint=sip_2
+}
+C 42400 46400 1 0 0 in-1.sym
+{
+T 42400 46700 5 10 0 0 0 0 1
+device=INPUT
+T 42500 46600 5 10 1 1 0 0 1
+refdes=in
+}
+C 46000 46900 1 0 0 out-1.sym
+{
+T 46000 47200 5 10 0 0 0 0 1
+device=OUTPUT
+T 46200 47100 5 10 1 1 0 0 1
+refdes=out
+}
+C 45500 45700 1 0 0 gnd-1.sym
+C 43800 47500 1 0 0 vcc-1.sym
+C 45400 47900 1 0 0 vcc-1.sym
+N 45600 47000 46000 47000 4

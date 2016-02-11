@@ -1,0 +1,647 @@
+v 20110115 2
+C 40000 40000 0 0 0 title-B.sym
+C 43000 48800 1 0 1 diode-1.sym
+{
+T 42600 49400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 49100 5 10 1 1 0 6 1
+refdes=D00
+T 42600 49400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 48300 1 0 1 diode-1.sym
+{
+T 42600 48900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 48600 5 10 1 1 0 6 1
+refdes=D01
+T 42600 48900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 47800 1 0 1 diode-1.sym
+{
+T 42600 48400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 48100 5 10 1 1 0 6 1
+refdes=D02
+T 42600 48400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 47300 1 0 1 diode-1.sym
+{
+T 42600 47900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 47600 5 10 1 1 0 6 1
+refdes=D03
+T 42600 47900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 46800 1 0 1 diode-1.sym
+{
+T 42600 47400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 47100 5 10 1 1 0 6 1
+refdes=D04
+T 42600 47400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 46300 1 0 1 diode-1.sym
+{
+T 42600 46900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 46600 5 10 1 1 0 6 1
+refdes=D05
+T 42600 46900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 45800 1 0 1 diode-1.sym
+{
+T 42600 46400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 46100 5 10 1 1 0 6 1
+refdes=D06
+T 42600 46400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 45300 1 0 1 diode-1.sym
+{
+T 42600 45900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 45600 5 10 1 1 0 6 1
+refdes=D07
+T 42600 45900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 44800 1 0 1 diode-1.sym
+{
+T 42600 45400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 45100 5 10 1 1 0 6 1
+refdes=D08
+T 42600 45400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 44300 1 0 1 diode-1.sym
+{
+T 42600 44900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 44600 5 10 1 1 0 6 1
+refdes=D09
+T 42600 44900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 43800 1 0 1 diode-1.sym
+{
+T 42600 44400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 44100 5 10 1 1 0 6 1
+refdes=D10
+T 42600 44900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 43300 1 0 1 diode-1.sym
+{
+T 42600 43900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 43600 5 10 1 1 0 6 1
+refdes=D11
+T 42600 43900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 42800 1 0 1 diode-1.sym
+{
+T 42600 43400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 43100 5 10 1 1 0 6 1
+refdes=D12
+T 42600 43400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 42300 1 0 1 diode-1.sym
+{
+T 42600 42900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 42600 5 10 1 1 0 6 1
+refdes=D13
+T 42600 42900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 41800 1 0 1 diode-1.sym
+{
+T 42600 42400 5 10 0 0 0 6 1
+device=DIODE
+T 42300 42100 5 10 1 1 0 6 1
+refdes=D14
+T 42600 42400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 43000 41300 1 0 1 diode-1.sym
+{
+T 42600 41900 5 10 0 0 0 6 1
+device=DIODE
+T 42300 41600 5 10 1 1 0 6 1
+refdes=D15
+T 42600 41900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 41500 48900 1 0 0 in-1.sym
+{
+T 41500 49200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 48900 5 10 1 1 0 0 1
+refdes=\_Col00\_
+}
+C 41500 48400 1 0 0 in-1.sym
+{
+T 41500 48700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 48400 5 10 1 1 0 0 1
+refdes=\_Col01\_
+}
+C 41500 47900 1 0 0 in-1.sym
+{
+T 41500 48200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 47900 5 10 1 1 0 0 1
+refdes=\_Col02\_
+}
+C 41500 47400 1 0 0 in-1.sym
+{
+T 41500 47700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 47400 5 10 1 1 0 0 1
+refdes=\_Col03\_
+}
+C 41500 46900 1 0 0 in-1.sym
+{
+T 41500 47200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 46900 5 10 1 1 0 0 1
+refdes=\_Col04\_
+}
+C 41500 46400 1 0 0 in-1.sym
+{
+T 41500 46700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 46400 5 10 1 1 0 0 1
+refdes=\_Col05\_
+}
+C 41500 45900 1 0 0 in-1.sym
+{
+T 41500 46200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 45900 5 10 1 1 0 0 1
+refdes=\_Col06\_
+}
+C 41500 45400 1 0 0 in-1.sym
+{
+T 41500 45700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 45400 5 10 1 1 0 0 1
+refdes=\_Col07\_
+}
+C 41500 44900 1 0 0 in-1.sym
+{
+T 41500 45200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 44900 5 10 1 1 0 0 1
+refdes=\_Col08\_
+}
+C 41500 44400 1 0 0 in-1.sym
+{
+T 41500 44700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 44400 5 10 1 1 0 0 1
+refdes=\_Col09\_
+}
+C 41500 43900 1 0 0 in-1.sym
+{
+T 41500 44200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 43900 5 10 1 1 0 0 1
+refdes=\_Col10\_
+}
+C 41500 43400 1 0 0 in-1.sym
+{
+T 41500 43700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 43400 5 10 1 1 0 0 1
+refdes=\_Col11\_
+}
+C 41500 42900 1 0 0 in-1.sym
+{
+T 41500 43200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 42900 5 10 1 1 0 0 1
+refdes=\_Col12\_
+}
+C 41500 42400 1 0 0 in-1.sym
+{
+T 41500 42700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 42400 5 10 1 1 0 0 1
+refdes=\_Col13\_
+}
+C 41500 41900 1 0 0 in-1.sym
+{
+T 41500 42200 5 10 0 0 0 0 1
+device=INPUT
+T 41000 41900 5 10 1 1 0 0 1
+refdes=\_Col14\_
+}
+C 41500 41400 1 0 0 in-1.sym
+{
+T 41500 41700 5 10 0 0 0 0 1
+device=INPUT
+T 41000 41400 5 10 1 1 0 0 1
+refdes=\_Col15\_
+}
+N 43000 41500 43000 49500 4
+C 46000 48800 1 0 1 diode-1.sym
+{
+T 45600 49400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 49100 5 10 1 1 0 6 1
+refdes=D16
+T 45600 49400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 48300 1 0 1 diode-1.sym
+{
+T 45600 48900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 48600 5 10 1 1 0 6 1
+refdes=D17
+T 45600 48900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 47800 1 0 1 diode-1.sym
+{
+T 45600 48400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 48100 5 10 1 1 0 6 1
+refdes=D18
+T 45600 48400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 47300 1 0 1 diode-1.sym
+{
+T 45600 47900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 47600 5 10 1 1 0 6 1
+refdes=D19
+T 45600 47900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 46800 1 0 1 diode-1.sym
+{
+T 45600 47400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 47100 5 10 1 1 0 6 1
+refdes=D20
+T 45600 47400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 46300 1 0 1 diode-1.sym
+{
+T 45600 46900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 46600 5 10 1 1 0 6 1
+refdes=D21
+T 45600 46900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 45800 1 0 1 diode-1.sym
+{
+T 45600 46400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 46100 5 10 1 1 0 6 1
+refdes=D22
+T 45600 46400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 45300 1 0 1 diode-1.sym
+{
+T 45600 45900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 45600 5 10 1 1 0 6 1
+refdes=D23
+T 45600 45900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 44800 1 0 1 diode-1.sym
+{
+T 45600 45400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 45100 5 10 1 1 0 6 1
+refdes=D24
+T 45600 45400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 44300 1 0 1 diode-1.sym
+{
+T 45600 44900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 44600 5 10 1 1 0 6 1
+refdes=D25
+T 45600 44900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 43800 1 0 1 diode-1.sym
+{
+T 45600 44400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 44100 5 10 1 1 0 6 1
+refdes=D26
+T 45600 44400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 43300 1 0 1 diode-1.sym
+{
+T 45600 43900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 43600 5 10 1 1 0 6 1
+refdes=D27
+T 45600 43900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 42800 1 0 1 diode-1.sym
+{
+T 45600 43400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 43100 5 10 1 1 0 6 1
+refdes=D28
+T 45600 43400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 42300 1 0 1 diode-1.sym
+{
+T 45600 42900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 42600 5 10 1 1 0 6 1
+refdes=D29
+T 45600 42900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 41800 1 0 1 diode-1.sym
+{
+T 45600 42400 5 10 0 0 0 6 1
+device=DIODE
+T 45300 42100 5 10 1 1 0 6 1
+refdes=D30
+T 45600 42400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 46000 41300 1 0 1 diode-1.sym
+{
+T 45600 41900 5 10 0 0 0 6 1
+device=DIODE
+T 45300 41600 5 10 1 1 0 6 1
+refdes=D31
+T 45600 41900 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 44500 48900 1 0 0 in-1.sym
+{
+T 44500 49200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 48900 5 10 1 1 0 0 1
+refdes=\_Col16\_
+}
+C 44500 48400 1 0 0 in-1.sym
+{
+T 44500 48700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 48400 5 10 1 1 0 0 1
+refdes=\_Col17\_
+}
+C 44500 47900 1 0 0 in-1.sym
+{
+T 44500 48200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 47900 5 10 1 1 0 0 1
+refdes=\_Col18\_
+}
+C 44500 47400 1 0 0 in-1.sym
+{
+T 44500 47700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 47400 5 10 1 1 0 0 1
+refdes=\_Col19\_
+}
+C 44500 46900 1 0 0 in-1.sym
+{
+T 44500 47200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 46900 5 10 1 1 0 0 1
+refdes=\_Col20\_
+}
+C 44500 46400 1 0 0 in-1.sym
+{
+T 44500 46700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 46400 5 10 1 1 0 0 1
+refdes=\_Col21\_
+}
+C 44500 45900 1 0 0 in-1.sym
+{
+T 44500 46200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 45900 5 10 1 1 0 0 1
+refdes=\_Col22\_
+}
+C 44500 45400 1 0 0 in-1.sym
+{
+T 44500 45700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 45400 5 10 1 1 0 0 1
+refdes=\_Col23\_
+}
+C 44500 44900 1 0 0 in-1.sym
+{
+T 44500 45200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 44900 5 10 1 1 0 0 1
+refdes=\_Col24\_
+}
+C 44500 44400 1 0 0 in-1.sym
+{
+T 44500 44700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 44400 5 10 1 1 0 0 1
+refdes=\_Col25\_
+}
+C 44500 43900 1 0 0 in-1.sym
+{
+T 44500 44200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 43900 5 10 1 1 0 0 1
+refdes=\_Col26\_
+}
+C 44500 43400 1 0 0 in-1.sym
+{
+T 44500 43700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 43400 5 10 1 1 0 0 1
+refdes=\_Col27\_
+}
+C 44500 42900 1 0 0 in-1.sym
+{
+T 44500 43200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 42900 5 10 1 1 0 0 1
+refdes=\_Col28\_
+}
+C 44500 42400 1 0 0 in-1.sym
+{
+T 44500 42700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 42400 5 10 1 1 0 0 1
+refdes=\_Col29\_
+}
+C 44500 41900 1 0 0 in-1.sym
+{
+T 44500 42200 5 10 0 0 0 0 1
+device=INPUT
+T 44000 41900 5 10 1 1 0 0 1
+refdes=\_Col30\_
+}
+C 44500 41400 1 0 0 in-1.sym
+{
+T 44500 41700 5 10 0 0 0 0 1
+device=INPUT
+T 44000 41400 5 10 1 1 0 0 1
+refdes=\_Col31\_
+}
+N 46000 41500 46000 49500 4
+N 43000 49500 46000 49500 4
+C 46500 48800 1 0 0 diode-1.sym
+{
+T 46900 49400 5 10 0 0 0 0 1
+device=DIODE
+T 46800 49300 5 10 1 1 0 0 1
+refdes=D32
+T 46900 49400 5 10 0 0 0 0 1
+footprint=diode100
+}
+C 50400 48800 1 0 1 diode-1.sym
+{
+T 50000 49400 5 10 0 0 0 6 1
+device=DIODE
+T 50100 49300 5 10 1 1 0 6 1
+refdes=D33
+T 50000 49400 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 50400 48100 1 0 1 diode-1.sym
+{
+T 50000 48700 5 10 0 0 0 6 1
+device=DIODE
+T 50100 48600 5 10 1 1 0 6 1
+refdes=D34
+T 50000 48700 5 10 0 0 0 6 1
+footprint=diode100
+}
+C 51000 48800 1 0 0 diode-1.sym
+{
+T 51400 49400 5 10 0 0 0 0 1
+device=DIODE
+T 51300 49300 5 10 1 1 0 0 1
+refdes=D35
+T 51400 49400 5 10 0 0 0 0 1
+footprint=diode100
+}
+C 47900 48500 1 0 0 npn-3.sym
+{
+T 48800 49000 5 10 0 0 0 0 1
+device=NPN_TRANSISTOR
+T 48800 49000 5 10 1 1 0 0 1
+refdes=Q1
+T 48400 49000 5 10 0 1 0 0 1
+footprint=to92_75
+}
+C 52400 48500 1 0 0 npn-3.sym
+{
+T 53300 49000 5 10 0 0 0 0 1
+device=NPN_TRANSISTOR
+T 53300 49000 5 10 1 1 0 0 1
+refdes=Q2
+T 53100 49000 5 10 0 1 0 0 1
+footprint=to92_75
+}
+C 46100 49500 1 90 0 resistor-1.sym
+{
+T 45700 49800 5 10 0 0 90 0 1
+device=RESISTOR
+T 45800 49700 5 10 1 1 90 0 1
+refdes=R1
+T 46000 49900 5 10 0 1 0 0 1
+footprint=res100
+}
+C 48600 49500 1 90 0 resistor-1.sym
+{
+T 48200 49800 5 10 0 0 90 0 1
+device=RESISTOR
+T 48300 49700 5 10 1 1 90 0 1
+refdes=R2
+T 48200 49800 5 10 0 0 90 0 1
+footprint=res100
+}
+C 50600 49500 1 90 0 resistor-1.sym
+{
+T 50200 49800 5 10 0 0 90 0 1
+device=RESISTOR
+T 50300 49700 5 10 1 1 90 0 1
+refdes=R3
+T 50500 50100 5 10 0 1 0 0 1
+footprint=res100
+}
+C 41500 40600 1 0 0 in-1.sym
+{
+T 41500 40900 5 10 0 0 0 0 1
+device=INPUT
+T 40800 40600 5 10 1 1 0 0 1
+refdes=Enable
+}
+C 53900 49400 1 0 0 out-1.sym
+{
+T 53900 49700 5 10 0 0 0 0 1
+device=OUTPUT
+T 54600 49500 5 10 1 1 0 0 1
+refdes=out
+}
+C 52900 48200 1 0 0 gnd-1.sym
+C 48400 48200 1 0 0 gnd-1.sym
+C 48300 50500 1 0 0 vcc-1.sym
+N 46000 50400 46000 50500 4
+N 46000 50500 50500 50500 4
+N 50500 50500 50500 50400 4
+N 48500 50500 48500 50400 4
+N 46000 49000 46500 49000 4
+N 47400 49000 47900 49000 4
+N 49500 49000 49300 49000 4
+N 49300 49000 49300 49500 4
+N 49300 49500 48500 49500 4
+N 50400 49000 51000 49000 4
+N 50500 49000 50500 49500 4
+N 51900 49000 52400 49000 4
+N 53000 49500 53900 49500 4
+N 42100 40700 48000 40700 4
+N 48000 40700 48000 47500 4
+N 48000 47500 49300 47500 4
+N 50400 48300 50500 48300 4
+N 50500 48300 50500 49000 4
+N 49500 48300 49300 48300 4
+N 49300 48300 49300 47500 4
+T 50500 40900 9 20 1 0 0 0 1
+PerspiC 1 ROM 1-bit Output
+T 54000 40100 9 10 1 0 0 0 1
+Robert Edwards, ANU, Sept. 2012
+T 54000 40400 9 10 1 0 0 0 1
+1
+T 50500 40100 9 10 1 0 0 0 1
+1
+T 52000 40100 9 10 1 0 0 0 1
+1
+T 50300 40400 9 10 1 0 0 0 1
+PerspiC1_ROM_Out.sch
