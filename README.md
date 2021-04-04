@@ -10,6 +10,9 @@ The schematics and pcbs files are copied from
 
 I hope that the designer of PerspiC1, Robert Edwards, don't mind me making the images publically available here.
 
+Update April 2021 - The schematics repo seems offline, so it was a good thing that I uploaded them five years ago. I now also uploaded the wiki pages ( https://gnosia.anu.edu.au/wiki/PerspiC_1_BF_CPU ) since they might go away some day as well. 
+
+
 ---
 ### 9_bit_oc_buffer.sch
 <img src=https://github.com/SmallRoomLabs/PerspiC1/raw/master/Images/9_bit_oc_buffer.png width=500 />
